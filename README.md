@@ -8,7 +8,7 @@ Managing overdue customer accounts through external Debt Collection Agencies (DC
 
 ## Proposed Solution
 
-A centralized, AI-enabled DCA Management Platform that replaces manual, spreadsheet-driven debt recovery with a structured, transparent, and scalable digital workflow.
+A centralized, AI-enabled DCA Management Platform- "RecoverIQ" that replaces manual, spreadsheet-driven debt recovery with a structured, transparent, and scalable digital workflow.
 
 The solution demonstrated through the live website provides:
  1.Centralized case lifecycle management from allocation to closure
@@ -65,7 +65,7 @@ These features collectively demonstrate how the proposed solution replaces manua
 - Integration Layer: RPA for legacy systems (future-ready)
 
 ## Live Demo
-🔗 **Public Website:**  
+🔗 **RecoverIQ - Public Website:**  
 https://dca-management-platform.vercel.app/
 
 ## Repository Structure
